@@ -187,7 +187,8 @@ Recreación del diseño y estructura visual del sitio de NVIDIA, con énfasis en
 
 <div align="center">
   
-![Snake animation](https://raw.githubusercontent.com/emarcos340-commits/emarcos340-commits/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/emarcos340-commits/emarcos340-commits/blob/output/github-snake-dark.svg)
+
 
 </div>
 
