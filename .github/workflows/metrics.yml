@@ -17,10 +17,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: emarcos340-commits
 
-          base: header, activity, repositories, community
-
+          base: ""
           plugin_languages: yes
-          plugin_languages_details: bytes-size, percentage
+          plugin_languages_details: percentage
           plugin_stars: yes
-          plugin_activity: yes
-          plugin_followup: yes
