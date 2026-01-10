@@ -26,18 +26,12 @@
 
 ## 🦇 SOBRE MÍ
 
-```
-> Sistema iniciado...
-> Cargando perfil...
-> Modo desarrollador: ACTIVO
-```
-
 Ingeniero de software especializado en desarrollo web full stack.  
 Construcción de aplicaciones modernas con enfoque en arquitectura limpia y escalable.  
 Frontend intuitivo. Backend robusto. Soluciones eficientes.
 
 > **Filosofía:** Código limpio, arquitectura sólida, resultados profesionales.  
-> **Estética:** Terminal verde sobre negro. Siempre.  
+> **Enfoque:** Desarrollo full stack con tecnologías modernas.  
 > **Estado:** En constante aprendizaje y evolución.
 
 ---
@@ -89,11 +83,11 @@ Figma → Diseño de interfaces
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=00ff41&icon_color=00ff41)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emarcos340-commits&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=00ff41&icon_color=00ff41)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=00ff41)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emarcos340-commits&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=00ff41)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TU_USUARIO&theme=dark&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=00ff41&currStreakNum=00ff41&sideNums=00ff41&dates=4d4d4d)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=emarcos340-commits&theme=dark&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=00ff41&currStreakNum=00ff41&sideNums=00ff41&dates=4d4d4d)](https://git.io/streak-stats)
 
 </div>
 
@@ -102,22 +96,78 @@ Figma → Diseño de interfaces
 ## 🕯️ PROYECTOS DESTACADOS
 
 ```ascii
-┌─────────────────────────────────────────────────┐
-│  ÁREAS DE ESPECIALIZACIÓN                       │
-├─────────────────────────────────────────────────┤
-│  ▸ Aplicaciones web con Laravel y UI moderna    │
-│  ▸ APIs REST robustas y escalables              │
-│  ▸ Interfaces responsivas con Tailwind/Bootstrap│
-│  ▸ Arquitectura de bases de datos eficiente     │
-│  ▸ Desarrollo full stack end-to-end             │
-└─────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────┐
+│  PORTAFOLIO DE PROYECTOS                                     │
+├──────────────────────────────────────────────────────────────┤
+│  ▸ Firemont — Plataforma Web Full Stack                     │
+│  ▸ Clon de Starbucks — UI/UX y Frontend Responsivo          │
+│  ▸ Clon de NVIDIA — Diseño Web Moderno                      │
+└──────────────────────────────────────────────────────────────┘
 ```
 
-**Experiencia en:**
-- 🌑 **Aplicaciones Web** — Desarrollo full stack con Laravel
-- ⚙️ **APIs REST** — Backend con Node.js y Express
-- 🎨 **UI/UX** — Interfaces modernas y responsivas
-- 🗄️ **Bases de Datos** — PostgreSQL y MongoDB
+### 🔥 Firemont — Plataforma Web Full Stack
+
+**Descripción**  
+Aplicación web desarrollada con enfoque en arquitectura limpia, escalabilidad y separación de responsabilidades.
+
+**Tecnologías**
+- Backend: Laravel, PHP
+- Base de datos: PostgreSQL (Neon)
+- Frontend: Blade, Tailwind CSS
+- Control de versiones: Git / GitHub
+
+**Características**
+- Arquitectura MVC bien definida
+- Lógica de negocio desacoplada
+- Interfaz moderna y funcional
+- Preparada para crecimiento futuro
+
+**Repositorio**  
+🔗 [Ver proyecto en GitHub](https://github.com/emarcos340-commits/firemont)
+
+---
+
+### ☕ Clon de Starbucks — Frontend & UI/UX
+
+**Descripción**  
+Clon visual del sitio oficial de Starbucks, enfocado en fidelidad visual, maquetación profesional y diseño responsivo.
+
+**Tecnologías**
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
+- Tailwind CSS
+
+**Características**
+- Diseño totalmente responsivo
+- Layout moderno y estructurado
+- Buenas prácticas de maquetación
+- Optimización visual para distintos dispositivos
+
+**Repositorio**  
+🔗 [Ver proyecto en GitHub](https://github.com/emarcos340-commits/starbucks-clone)
+
+---
+
+### 🧠 Clon de NVIDIA — Diseño Web Moderno
+
+**Descripción**  
+Recreación del diseño y estructura visual del sitio de NVIDIA, con énfasis en UI moderna y componentes reutilizables.
+
+**Tecnologías**
+- HTML5
+- Tailwind CSS
+- JavaScript
+
+**Características**
+- Layout limpio y modular
+- Uso intensivo de utilidades Tailwind
+- Componentes reutilizables
+- Enfoque en estética y experiencia visual
+
+**Repositorio**  
+🔗 [Ver proyecto en GitHub](https://github.com/emarcos340-commits/nvidia-clone)
 
 ---
 
@@ -125,19 +175,19 @@ Figma → Diseño de interfaces
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/📧_Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff41)](mailto:correo@ejemplo.com)
-[![GitHub](https://img.shields.io/badge/💀_GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00ff41)](https://github.com/TU_USUARIO)
-[![LinkedIn](https://img.shields.io/badge/🦇_LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff41)](https://www.linkedin.com)
+[![Email](https://img.shields.io/badge/📧_Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff41)](mailto:emarcos340@gmail.com)
+[![GitHub](https://img.shields.io/badge/💀_GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00ff41)](https://github.com/emarcos340-commits)
+[![LinkedIn](https://img.shields.io/badge/🦇_LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff41)](https://www.linkedin.com/in/marcos-martinez-dev/)
 
 </div>
 
 ---
 
-## 🐍 ACTIVIDAD EN GITHUB
+## 🐍 ACTIVIDAD DE CONTRIBUCIONES
 
 <div align="center">
   
-![Snake animation](https://github.com/TU_USUARIO/TU_USUARIO/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/emarcos340-commits/emarcos340-commits/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -157,7 +207,10 @@ Figma → Diseño de interfaces
 ╚═══════════════════════════════════════════════════════╝
 ```
 
+![Profile Views](https://komarev.com/ghpvc/?username=emarcos340-commits&color=00ff41&style=flat-square&label=VISITAS+AL+PERFIL)
+
 **"Construyendo el futuro, una línea de código a la vez"**
 
+⸸ EST. 2024 ⸸
 
 </div>
