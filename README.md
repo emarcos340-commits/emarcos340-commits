@@ -85,7 +85,9 @@ Figma → Diseño de interfaces
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emarcos340-commits&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=00ff41&icon_color=00ff41)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emarcos340-commits&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=00ff41)
+
+<img src="https://raw.githubusercontent.com/emarcos340-commits/emarcos340-commits/main/github-metrics.svg" />
+
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=emarcos340-commits&theme=dark&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=00ff41&currStreakNum=00ff41&sideNums=00ff41&dates=4d4d4d)](https://git.io/streak-stats)
 
