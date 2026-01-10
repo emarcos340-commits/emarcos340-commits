@@ -123,30 +123,9 @@ Aplicación web desarrollada con enfoque en arquitectura limpia, escalabilidad y
 - Preparada para crecimiento futuro
 
 **Repositorio**  
-🔗 [Ver proyecto en GitHub](https://github.com/emarcos340-commits/firemont)
+🔗 [Ver proyecto en Vercel](https://firemont.vercel.app/)
 
 ---
-
-### ☕ Clon de Starbucks — Frontend & UI/UX
-
-**Descripción**  
-Clon visual del sitio oficial de Starbucks, enfocado en fidelidad visual, maquetación profesional y diseño responsivo.
-
-**Tecnologías**
-- HTML5
-- CSS3
-- JavaScript
-- Bootstrap
-- Tailwind CSS
-
-**Características**
-- Diseño totalmente responsivo
-- Layout moderno y estructurado
-- Buenas prácticas de maquetación
-- Optimización visual para distintos dispositivos
-
-**Repositorio**  
-🔗 [Ver proyecto en GitHub](https://github.com/emarcos340-commits/starbucks-clone)
 
 ---
 
@@ -167,7 +146,7 @@ Recreación del diseño y estructura visual del sitio de NVIDIA, con énfasis en
 - Enfoque en estética y experiencia visual
 
 **Repositorio**  
-🔗 [Ver proyecto en GitHub](https://github.com/emarcos340-commits/nvidia-clone)
+🔗 [Ver proyecto en GitHub](https://emarcos340-commits.github.io/web-c-fundamentos-desarrollo-web/08-proyecto-final/)
 
 ---
 
