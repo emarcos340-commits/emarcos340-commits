@@ -16,79 +16,76 @@
 ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝╚═╝  ╚═══╝╚══════╝╚══════╝
 ```
 
-### ⸸ Software Engineer ⸸ Web Developer ⸸ Nocturnal Coder ⸸
+### ⸸ Ingeniero de Software ⸸ Desarrollador Web Full Stack ⸸
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&height=60&lines=Web+Development+•+Frontend+%26+Backend;HTML+•+CSS+•+JavaScript+•+PHP;Laravel+•+Tailwind+•+Bootstrap;Node.js+•+PostgreSQL+•+MongoDB;Clean+code.+Dark+aesthetic.+Scalable+systems" alt="Typing SVG" />
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&height=60&lines=HTML+•+CSS+•+JavaScript+•+PHP;Laravel+•+Tailwind+•+Bootstrap;Node.js+•+PostgreSQL+•+MongoDB;Código+limpio.+Estética+oscura.+Sistemas+escalables" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## 🦇 THE VOID SPEAKS
+## 🦇 SOBRE MÍ
 
 ```
-> System initialized...
-> Loading consciousness...
-> Depression mode: ENABLED
+> Sistema iniciado...
+> Cargando perfil...
+> Modo desarrollador: ACTIVO
 ```
 
-Software engineer dwelling in the intersection of darkness and code.  
-Building web applications that outlive the mortal coil.  
-Frontend aesthetics. Backend architecture. Eternal debugging.
+Ingeniero de software especializado en desarrollo web full stack.  
+Construcción de aplicaciones modernas con enfoque en arquitectura limpia y escalable.  
+Frontend intuitivo. Backend robusto. Soluciones eficientes.
 
-*"I know you're fucking someone else..."* — My code to production bugs
-
-> **Philosophy:** Write code so clean it could be played at a funeral.  
-> **Aesthetic:** Terminal green on black. Always.  
-> **Status:** Caffeinated and pessimistic.
+> **Filosofía:** Código limpio, arquitectura sólida, resultados profesionales.  
+> **Estética:** Terminal verde sobre negro. Siempre.  
+> **Estado:** En constante aprendizaje y evolución.
 
 ---
 
-## ⚰️ ARSENAL OF DARKNESS
+## ⚰️ STACK TECNOLÓGICO
 
-### 🕷️ Frontend Ritual
+### 🕷️ Frontend
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,php,laravel,tailwind,bootstrap&theme=dark" />
 </p>
 
-
 ```
-HTML5 → The skeleton
-CSS3 → The flesh
-PHP → The decay
-Laravel → The resurrection
-Tailwind → The shroud
-Bootstrap → The coffin (when needed)
+HTML5 → Estructura semántica
+CSS3 → Diseño responsivo
+JavaScript → Interactividad dinámica
+PHP → Lógica del lado del servidor
+Laravel → Framework PHP robusto
+Tailwind → Utilidades CSS modernas
+Bootstrap → Componentes UI
 ```
 
-### 🩸 Backend Necromancy
+### 🩸 Backend
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,postgres,mongodb&theme=dark" />
 </p>
 
 ```
-Node.js → Breathing life into servers
-PostgreSQL (Neon) → Where data goes to rest
-MongoDB → Unstructured chaos
-REST APIs → The messenger between worlds
+Node.js → Entorno de ejecución JavaScript
+PostgreSQL (Neon) → Base de datos relacional
+MongoDB → Base de datos NoSQL
+REST APIs → Servicios web escalables
 ```
 
-### 🗡️ Tools of the Trade
+### 🗡️ Herramientas
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" />
 </p>
 
 ```
-Git → Version control through time
-GitHub → The digital cemetery
-VS Code → Cathedral of creation
-Figma → Sketching the abyss
+Git → Control de versiones
+GitHub → Repositorios y colaboración
+VS Code → Editor de código
+Figma → Diseño de interfaces
 ```
 
 ---
 
-## 💀 STATISTICAL OBITUARY
+## 💀 ESTADÍSTICAS DE GITHUB
 
 <div align="center">
   
@@ -102,29 +99,29 @@ Figma → Sketching the abyss
 
 ---
 
-## 🕯️ MONUMENTS IN CODE
+## 🕯️ PROYECTOS DESTACADOS
 
 ```ascii
 ┌─────────────────────────────────────────────────┐
-│  CURRENT OBSESSIONS                             │
+│  ÁREAS DE ESPECIALIZACIÓN                       │
 ├─────────────────────────────────────────────────┤
-│  ▸ Web apps built with Laravel & modern UI      │
-│  ▸ Backend APIs that don't break at 3 AM        │
-│  ▸ Dark mode everything (obviously)             │
-│  ▸ Database design that makes sense             │
-│  ▸ Clean code that doesn't make me hate myself  │
+│  ▸ Aplicaciones web con Laravel y UI moderna    │
+│  ▸ APIs REST robustas y escalables              │
+│  ▸ Interfaces responsivas con Tailwind/Bootstrap│
+│  ▸ Arquitectura de bases de datos eficiente     │
+│  ▸ Desarrollo full stack end-to-end             │
 └─────────────────────────────────────────────────┘
 ```
 
-**Notable Projects:**
-- 🌑 **Web Applications** — Laravel-powered darkness
-- ⚙️ **REST APIs** — Node.js backends that actually work
-- 🎨 **UI/UX** — Tailwind & Bootstrap in eternal night mode
-- 🗄️ **Database Architecture** — PostgreSQL & MongoDB symphonies
+**Experiencia en:**
+- 🌑 **Aplicaciones Web** — Desarrollo full stack con Laravel
+- ⚙️ **APIs REST** — Backend con Node.js y Express
+- 🎨 **UI/UX** — Interfaces modernas y responsivas
+- 🗄️ **Bases de Datos** — PostgreSQL y MongoDB
 
 ---
 
-## 📡 TRANSMISSION CHANNELS
+## 📡 CONTACTO
 
 <div align="center">
 
@@ -136,7 +133,7 @@ Figma → Sketching the abyss
 
 ---
 
-## 🐍 CONSUMING MY EXISTENCE
+## 🐍 ACTIVIDAD EN GITHUB
 
 <div align="center">
   
@@ -151,18 +148,16 @@ Figma → Sketching the abyss
 ```
 ╔═══════════════════════════════════════════════════════╗
 ║                                                       ║
-║  "My code compiles, my spirit doesn't"                ║
+║     "El código que perdura es el que está bien       ║
+║              diseñado desde el inicio"                ║
 ║                                                       ║
-║  — Type O Negative mood • Terminal aesthetics —      ║
-║  — October rust • Slow, heavy, deliberate code —     ║
+║    — Estética terminal • Código profesional —        ║
+║    — Arquitectura sólida • Resultados reales —       ║
 ║                                                       ║
 ╚═══════════════════════════════════════════════════════╝
 ```
 
-![Profile Views](https://komarev.com/ghpvc/?username=TU_USUARIO&color=00ff41&style=flat-square&label=VISITORS+FROM+THE+VOID)
+**"Construyendo el futuro, una línea de código a la vez"**
 
-**"Everything dies, but commit history is forever"**
-
-⸸ EST. 2024 ⸸
 
 </div>
